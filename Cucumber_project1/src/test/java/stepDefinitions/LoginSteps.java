@@ -14,7 +14,7 @@ public class LoginSteps {
 	@When("user enters username and password") 
 	public void user_enters_username_and_password() 
 	{ // Write code here that turns the phrase above into concrete actions 
-		System.out.println("user enters username and password in Cap"); 
+		System.out.println("user enters username and password in Upper"); 
 		} 
 	@And("clicks on login button") 
 	public void clicks_on_login_button() 
